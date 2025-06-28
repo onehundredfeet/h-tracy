@@ -1,0 +1,10 @@
+<xml>
+   <set name="TRACY_ROOT" value="${TRACY_IDL_DIR}/../lib/debug/tracy"/>
+
+   <cppflag value="-I${TRACY_ROOT}/include"/>
+   
+  <findlib value="Tracy::TracyClient" dir="${TRACY_ROOT}/lib/cmake/Tracy" link="true"/>
+
+
+</xml>
+

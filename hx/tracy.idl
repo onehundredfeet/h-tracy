@@ -1,0 +1,13 @@
+
+[Internal="ZoneScoped"]
+object ProxyZoneScoped
+{
+	ProxyZoneScoped new();
+};
+
+[Internal="ZoneScopedN"]
+object ProxyZoneScopedN
+{
+	ProxyZoneScopedN new(char *name);
+};
+

@@ -1,0 +1,11 @@
+{
+	"name" : "h-tracy",
+	"url" : "https://github.com/onehundredfeet/h-tracy",
+	"license" : "MIT",
+	"contributors" : ["onehundredfeet"],
+	"description" : "Tracy integration for Haxe using hl-idl",
+	"version" : "0.1.0",
+	"releasenote" : "",
+	"classPath": "hx",
+	"dependencies": { "hl-idl" :""}
+}
